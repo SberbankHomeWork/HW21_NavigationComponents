@@ -34,4 +34,11 @@
             android:id="@+id/action_fragment3_to_fragment1"
             app:destination="@id/fragment1" />
     </fragment>
+
+    <fragment
+        android:id="@+id/fragment4"
+        android:name="com.alextroy.android.hw21_navigation.fragments.Fragment4"
+        android:label="fragment_fragment4"
+        tools:layout="@layout/view_pager_fragment" />
+
 </navigation>

@@ -74,7 +74,6 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.addTab(tabLayout.newTab().setText("Tab 2"));
         tabLayout.addTab(tabLayout.newTab().setText("Tab 3"));
 
-
         addFragments();
     }
 
